@@ -1,0 +1,5 @@
+name: astrbot_plugin_anti_revoke
+desc: QQ anti-recall plugin for AstrBot with image, voice, and forward support
+version: 1.2.1
+author: orangestranger
+repo: https://github.com/orangestranger/astrbot-anti-recall-QQ

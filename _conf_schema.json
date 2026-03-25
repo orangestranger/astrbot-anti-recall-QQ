@@ -1,0 +1,28 @@
+{
+  "monitor_groups": {
+    "type": "list",
+    "description": "要监控撤回事件的群号列表"
+  },
+  "target_receivers": {
+    "type": "list",
+    "description": "接收撤回提醒的目标QQ号"
+  },
+  "target_groups": {
+    "type": "list",
+    "description": "接收撤回提醒的目标群号"
+  },
+  "ignore_senders": {
+    "type": "list",
+    "description": "忽略这些QQ号的撤回消息"
+  },
+  "cache_expiration_time": {
+    "type": "int",
+    "default": 300,
+    "description": "消息缓存时间，单位: 秒"
+  },
+  "file_size_threshold_mb": {
+    "type": "int",
+    "default": 300,
+    "description": "视频和文件大小阈值，单位: MB"
+  }
+}
