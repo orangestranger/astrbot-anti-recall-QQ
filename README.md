@@ -1,6 +1,6 @@
 # astrbot_plugin_anti_revoke
 
-`AstrBot + NapCatQQ` 的 QQ 防撤回插件，仓库内容与线上插件目录 `astrbot_plugin_anti_revoke` 对齐。
+`AstrBot + NapCatQQ` 的 QQ 防撤回插件，仓库内容与线上插件目录 `astrbot_plugin_anti_revoke` 对齐。（修复了语音和转发消息无法显示问题）
 
 当前支持：
 
